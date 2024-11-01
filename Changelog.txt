@@ -1,0 +1,4 @@
+2013-06-15 21:50 BRT+0300  fzmaster
+
+	* .: Fix commit and re-release plugin
+
